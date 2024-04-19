@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Paso 1: Crear un proyecto Vite con las opciones especificadas
-npm create vite@latest
+#npm create vite@latest
 
 # Paso 2: Instalar dependencias del proyecto Vite
 # Reemplaza "nombre-del-proyecto" con el nombre real de tu proyecto, seleccionar 'React' y luego 'JavaScript + SWC'
